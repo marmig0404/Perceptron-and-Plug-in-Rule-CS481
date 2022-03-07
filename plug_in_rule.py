@@ -4,6 +4,16 @@
 # Code to perform the simple Plug-in Rule classifier.
 # CS481 Assignment #6
 # Martin Miglio
+#
+# README
+#   This program will display 2 graphs:
+#       One of the initial training data
+#       One of the training data classified by the Plug-in rules
+#
+# USAGE
+#   Install dependencies,
+#   Run file,
+#   Close each plot to step the program
 """
 
 import matplotlib.pyplot as plt
