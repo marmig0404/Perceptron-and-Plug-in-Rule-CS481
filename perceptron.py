@@ -10,13 +10,17 @@
 #       One of the initial training data
 #       One of pre-classified testing data
 #       One of the testing data classified by the trained perceptron
-#   To use this program, install dependencies, run file, close each plot to step the program
-# 
+#
+# USAGE
+#   Install dependencies,
+#   Run file,
+#   Close each plot to step the program
+#
 # NOTE
-#   This program, using random inital values, will sometimes land on a classifier which doesn't
-#   perform well. Run the program again if the classifier appears not to work.
-#   Because the classifier is linear and the training data is not, the classifier cannot achieve
-#   perfect classification
+#   This program, using random inital values, will sometimes land on a
+#   classifier which doesn't perform well. Run the program again if the
+#   classifier appears not to work. Because the classifier is linear and the
+#   training data is not, the classifier cannot achieve perfect classification
 """
 
 import random
